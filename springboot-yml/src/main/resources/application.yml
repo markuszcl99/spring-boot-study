@@ -1,0 +1,30 @@
+person:
+  userName: markuszhang
+  boss: false
+  birth: 1999/01/29
+  age: 24
+  pet:
+    petName: 香香
+    weight: 10
+  interests: [ 吃饭,睡觉,代码 ]
+  animal:
+    - 猫
+    - 狗
+    - 兔
+  score:
+    math: 100
+    chinese: 80
+    english: 90
+  salarys:
+    - 80.0
+    - 90.0
+    - 100.0
+  all-pets:
+    weedy:
+      - petName: 阿狗
+        weight: 8
+      - petName: 阿猫
+        weight: 5
+    healthy:
+      - petName: 香香
+        weight: 10

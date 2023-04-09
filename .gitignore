@@ -1,0 +1,6 @@
+# Project exclude paths
+/markus-spring-boot-starter-whitelist/target/
+/markus-spring-boot-starter-whitelist-autoconfigure/target/
+/middleware-whitelist/target/
+/springboot-autoconfigure/target/
+/springboot-yml/target/

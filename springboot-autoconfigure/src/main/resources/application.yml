@@ -1,0 +1,13 @@
+user:
+  username: markuszhang
+  password: markuszhang
+  enable: true
+
+person:
+  username: markuszhang
+  password: markuszhang
+
+whitelist:
+  users:
+    - markuszhang
+    - luna
